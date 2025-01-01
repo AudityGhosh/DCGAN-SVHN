@@ -1,4 +1,4 @@
-```markdown
+
 # DCGAN-SVHN
 
 This project implements a Deep Convolutional Generative Adversarial Network (DCGAN) to generate synthetic images using the SVHN (Street View House Numbers) dataset. The model is trained to generate realistic images based on the training data, and it's implemented in Python using TensorFlow.
